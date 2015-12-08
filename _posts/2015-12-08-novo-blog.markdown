@@ -1,0 +1,32 @@
+---
+layout: post
+title: Novo Blog
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+  feature:
+date: 2015-12-08T20:43:02-02:00
+---
+Novo blog no ar.
+
+Depois de ter criado e desistido de vários blogs, resolvi voltar e tentar mais
+uma vez.
+
+Vou tentar postar com maior frequência e menos auto-censura. Os temas serão tudo
+que tenho vontade de escrever.
+
+Atualmente os temas que me mais me motivam são:
+
+- Jogos
+- Quantified Self (registrar e enumerar coisas da vida, como sono, passos, etc)
+- Automação de coisas
+- Aprender emacs
+- Escrever
+
+Desta vez, em vez de abandonar o blog eu vou querer mantê-lo por muitos anos
+como um registro da minha vida. Quero poder olhar para trás e ver o que eu
+pensava, o que eu gostava, que objetivos eu tinha pra minha vida.
+
+Se eu fizer uns 3 ou 4 posts por semana, já me sinto satisfeito.
