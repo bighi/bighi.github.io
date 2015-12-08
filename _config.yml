@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title: Leonardo Bighi
+locale: pt_BR
+#url:
 
 
 # Jekyll configuration
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Leonardo Bighi
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  bio: "Hackeando a minha vida com Linux e Ruby"
+  email: contato@leonardobighi.com
+  disqus-shortname: bighi
+  twitter: bighi
+  facebook: leonardobighi
   google:
-    plus: #username
+    plus: bighi
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: bighi
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
