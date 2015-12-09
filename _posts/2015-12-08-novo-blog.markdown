@@ -7,7 +7,7 @@ excerpt: Decidi voltar com o blog. O que esperar dele.
 tags: []
 image:
   feature:
-date: 2015-12-08T20:43:02-02:00
+date: 2015-12-07T20:43:02-02:00
 ---
 Novo blog no ar.
 
