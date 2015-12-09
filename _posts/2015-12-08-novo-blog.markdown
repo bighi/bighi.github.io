@@ -14,7 +14,7 @@ Novo blog no ar.
 Depois de ter criado e desistido de vários blogs, resolvi voltar e tentar mais
 uma vez.
 
-Vou tentar postar com maior frequência e menos auto-censura. Os temas serão tudo
+Vou tentar postar com maior frequência e menos autocensura. Os temas serão tudo
 que tenho vontade de escrever.
 
 Atualmente os temas que me mais me motivam são:
@@ -22,7 +22,7 @@ Atualmente os temas que me mais me motivam são:
 - Jogos
 - Quantified Self (registrar e enumerar coisas da vida, como sono, passos, etc)
 - Automação de coisas
-- Aprender emacs
+- Aprender Emacs
 - Escrever
 
 Desta vez, em vez de abandonar o blog eu vou querer mantê-lo por muitos anos

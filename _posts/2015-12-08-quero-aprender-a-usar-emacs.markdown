@@ -8,7 +8,7 @@ image:
 date: 2015-12-08T21:13:18-02:00
 ---
 Eu passo a maior parte do meu tempo usando editores de texto. Uso pra programar,
-uso pra escrevever meus textos, pra tudo. Então essa é uma área que eu acho que
+uso pra escrever meus textos, pra tudo. Então essa é uma área que eu acho que
 vale muito a pena investir.
 
 Nos últimos 2 ou 3 anos eu passei a maior parte do meu tempo usando o Vim, com
