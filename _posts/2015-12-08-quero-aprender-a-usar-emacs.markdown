@@ -2,7 +2,7 @@
 layout: post
 title: Quero Aprender a Usar Emacs
 categories: 
-excerpt:Depois de quase 3 anos usando o Vim, bateu a vontade de usar Emacs.
+excerpt: Depois de quase 3 anos usando o Vim, bateu a vontade de usar Emacs.
 image:
   feature:
 date: 2015-12-08T21:13:18-02:00
