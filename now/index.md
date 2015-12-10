@@ -4,7 +4,7 @@ title: O que estou fazendo agora
 modified: 2015-12-10T07:53:07.573882-03:00
 comments: true
 image:
-  feature: sample-image-2.jpg
+  feature:
 ---
 
 O Derek Sivers teve uma ideia interessante: cada blogueiro escrever
