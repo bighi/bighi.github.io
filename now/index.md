@@ -43,3 +43,6 @@ E também estou escrevendo um site sobre como cuidar de pele oleosa. Acho
 que esse é um nicho pouco explorado que pode dar dinheiro se eu
 conseguir colocar várias páginas em primeiro lugar no Google e
 recomendar produtos com código de afiliados.
+
+[regrasjogo]:http://regrasdojogo.com
+[livro]:http://www.amazon.com/Great-Hunt-Wheel-Time-Book/dp/0812517725
