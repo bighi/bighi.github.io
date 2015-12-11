@@ -18,8 +18,8 @@ num diretório.
 
 Não importa o quanto a tecnologia avance, algumas vezes a melhor solução é a
 mais simples. Você pode não concordar comigo agora, mas continua lendo pra
-entender que problema eu estou tentando resolver e como eu organizo a minha vida
-em texto puro.
+entender que problema eu estou tentando resolver e por quê TXT é a melhor
+solução.
 
 ## O problema ##
 
@@ -71,7 +71,7 @@ não perco nada.
 Amanhã eu explico melhor como eu organizo minhas notas e tarefas em txt, porque
 o post já está muito grande.
 
-[simplenote]:
-[evernote]:
-[googledocs]:
+[simplenote]:http://simplenote.com
+[evernote]:http://evernote.com
+[googledocs]:http://docs.google.com
 [dropbox]:http://dropbox.com
