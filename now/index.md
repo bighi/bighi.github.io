@@ -4,7 +4,7 @@ title: O que estou fazendo agora
 modified: 2015-12-10T07:53:07.573882-03:00
 comments: true
 image:
-  feature: sample-image-2.jpg
+  feature:
 ---
 
 O Derek Sivers teve uma ideia interessante: cada blogueiro escrever
@@ -43,3 +43,6 @@ E também estou escrevendo um site sobre como cuidar de pele oleosa. Acho
 que esse é um nicho pouco explorado que pode dar dinheiro se eu
 conseguir colocar várias páginas em primeiro lugar no Google e
 recomendar produtos com código de afiliados.
+
+[regrasjogo]:http://regrasdojogo.com
+[livro]:http://www.amazon.com/Great-Hunt-Wheel-Time-Book/dp/0812517725
