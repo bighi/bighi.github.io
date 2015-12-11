@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Por que eu prefiro TXT
-modified:
 categories: [plaintext]
-excerpt:Como e por quê eu organizo várias coisas da minha vida em textos simples em vez de usar apps e formatos proprietários. 
+excerpt: Como e por quê eu organizo várias coisas da minha vida em textos simples em vez de usar apps e formatos proprietários.
 tags: []
 image:
   feature:
@@ -32,7 +31,7 @@ chances de você perder aquela informação pra sempre ou ter que pagar.
 
 Eu já vi vários textos de pessoas que encontraram arquivos de vários anos atrás,
 mas não conseguiram ler o conteúdo porque estava num formato que morreu. Seja
-WordStar, ou uma versão antiga do Excel ou Apple Pages. 
+WordStar, ou uma versão antiga do Excel ou Apple Pages.
 
 Uma vez que o formato fica pra trás, adeus. E se aquele programa não tiver uma
 versão pro seu celular, você não vai poder acessar as informações quando estiver
@@ -48,7 +47,7 @@ no meu computador é um grande problema.
 
 ## A solução: TXT + Dropbox ##
 
-Arquivos de texto puro existem há decadas, e vão continuar existindo pra sempre.
+Arquivos de texto puro existem há décadas, e vão continuar existindo pra sempre.
 Eles são apenas texto num arquivo, sem um formato específico que vai ficar velho
 e deixar de ser suportado.
 
