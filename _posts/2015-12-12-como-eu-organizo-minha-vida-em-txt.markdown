@@ -103,9 +103,13 @@ Exemplo:
 
 ```
 (A) Limpar as manchas de sangue @casa +cadáver
+
 (B) Esconder o corpo @casa +cadáver
+
 (C) Anunciar minha motosserra no Mercado Livre @computador +cadáver
+
 Procurar nova pessoa pra dividir o apartamento comigo +apartamento
+
 Comprar novo abajur @mercado
 ```
 
