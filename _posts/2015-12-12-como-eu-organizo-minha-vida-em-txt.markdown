@@ -196,12 +196,12 @@ hoje, ou ler o diário e ver quais eram meus objetivos, sonhos e problemas.
 O que quer que eu queira fazer, eu sei que os arquivos estarão lá esperando por
 mim.
 
-[todotxt]:
-[todo-ios]:
-[todo-android]:
-[jrnl]:
-[neutrinote]:
-[vim]:
-[qtodotxt]:
-[nvalt]:
-[marked]:
+[todotxt]:http://todotxt.com
+[todo-ios]:http://itunes.apple.com/br/app/todo.txt-touch/id491342186?ls=1&mt=8
+[todo-android]:http://play.google.com/store/apps/details?id=com.todotxt.todotxttouch
+[jrnl]:https://github.com/maebert/jrnl
+[neutrinote]:https://play.google.com/store/apps/details?id=com.appmindlab.nano&hl=pt_BR
+[vim]:http://www.vim.org
+[qtodotxt]:https://github.com/QTodoTxt/QTodoTxt
+[nvalt]:http://brettterpstra.com/projects/nvalt/
+[marked]:http://marked2app.com/

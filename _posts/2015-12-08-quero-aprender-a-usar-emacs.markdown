@@ -11,8 +11,8 @@ Eu passo a maior parte do meu tempo usando editores de texto. Uso pra programar,
 uso pra escrever meus textos, pra tudo. Então essa é uma área que eu acho que
 vale muito a pena investir.
 
-Nos últimos 2 ou 3 anos eu passei a maior parte do meu tempo usando o [Vim][vim], com
-pequenas recaídas pro Sublime Text ou Atom pra experimentar.
+Nos últimos 2 ou 3 anos eu passei a maior parte do meu tempo usando o
+[Vim][vim], com pequenas recaídas pro Sublime Text ou Atom pra experimentar.
 
 O Vim é legal. Ele é muito poderoso. Mas eu sinto que falta algo. Eu tenho é
 sentido uma certa inveja do [Emacs][emacs].
