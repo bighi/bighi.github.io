@@ -1,74 +1,45 @@
 ---
 layout: post
-title: Por que eu prefiro TXT
-categories: [plaintext]
-excerpt: Como e por quê eu organizo várias coisas da minha vida em textos simples em vez de usar apps e formatos proprietários.
-tags: []
+title: Why I prefer plain text
+categories: [plain text]
+excerpt: How and why I organize many things in my life using just plain text instead of modern apps.
+tags: [plaintext markdown]
 image:
   feature:
 date: 2015-12-11T08:39:25-02:00
 ---
 
-Eu já usei várias coisas para organizar minhas notas e informações. Usei o
-[Simplenote][simplenote], [Evernote][evernote], [Google Docs][googledocs], e
-vários outros serviços que nem lembro mais. Em todos eles eu tive o mesmo
-problema, e sempre volto pra melhor solução que tem: arquivos de texto simples
-num diretório.
+I've used many different apps to organize my notes and documents. I've used [Simplenote][simplenote], [Evernote][evernote], [Google Docs][googledocs], and many others. And every time I end up coming back to the simplest solution of all: plain text files inside a document folder.
 
-Não importa o quanto a tecnologia avance, algumas vezes a melhor solução é a
-mais simples. Você pode não concordar comigo agora, mas continua lendo pra
-entender que problema eu estou tentando resolver e por quê TXT é a melhor
-solução.
+It doesn't matter how advanced technology is, sometimes the best solution is the simplest one. You may disagree now, but keep reading while I explain what problem I'm trying to solve and why plain text is the best solution.
 
-## O problema ##
+## The problem ##
 
-Todos os serviços que eu citei acima tem os mesmos problemas: formato
-proprietário e arquivos fora do seu computador.
+All the apps I mentioned above have one or both of these problems: proprietary formats, and files are not saved on your computer.
 
-O problema do formato proprietário é que ele só pode ser lido por um (ou poucos)
-programas específicos. Se por algum motivo o programa deixar de existir, há boas
-chances de você perder aquela informação pra sempre ou ter que pagar.
+The problem with proprietary formats is that it can only be read by one (or a few) specific apps. If the app (or server) stops existing for whatever reason, all the information stored there is gone. Or I may end up having to pay a heavy price to convert it.
 
-Eu já vi vários textos de pessoas que encontraram arquivos de vários anos atrás,
-mas não conseguiram ler o conteúdo porque estava num formato que morreu. Seja
-WordStar, ou uma versão antiga do Excel ou Apple Pages.
+I've seen posts about people that found old files from years ago and couldn't read it because it was saved in a dead file format, be it WordStar, an ancient version of Excel or Apple Pages.
 
-Uma vez que o formato fica pra trás, adeus. E se aquele programa não tiver uma
-versão pro seu celular, você não vai poder acessar as informações quando estiver
-na rua ou na casa de outra pessoa.
+One the format is left behind, goodbye. And if that app doesn't have a mobile version, you won't be able to get your notes while away from a computer.
 
-O problema do arquivo ficar em servidor próprio é que ele não está sob o **seu**
-controle. Se o serviço passar a cobrar assinatura, ferrou. Se o servidor der
-problema, adeus arquivos. Se a empresa fechar, corre pra exportar tudo (se eles
-oferecerem a opção) antes de tudo sumir.
+And the problem with files that are saved *on the cloud* instead of your computer is that it's not under **your** control. If the service changes to a recurring payment, you're screwed. If the server shuts down (temporarily or permanently), you're screwed. If the company goes bankrupt or acquired, you're screwed.
 
-Pra mim, que gosto de automatizar e fazer scripts pras coisas, não ter o arquivo
-no meu computador é um grande problema.
+If you like automating stuff (like I do), not having access to the files is also a big problem.
 
-## A solução: TXT + Dropbox ##
+## The solution: plain text + Dropbox ##
 
-Arquivos de texto puro existem há décadas, e vão continuar existindo pra sempre.
-Eles são apenas texto num arquivo, sem um formato específico que vai ficar velho
-e deixar de ser suportado.
+Plain text files are a decades old technology. And they will still be available for decades to come. There's no weird code behind them, it's just unicode text inside a file. And, well... text is going away anytime soon.
 
-**Qualquer informação que eu anote num txt eu vou poder continuar lendo enquanto
-tiver o arquivo, mesmo que seja daqui a algumas décadas quando eu estiver
-sozinho numa cama num asilo.**
+**Any information that I save in a plain text file I will be able to read as long as I still have the file, even if it's 40 years from now and I'm in a nursery home using my old man's holographic iPhone**.
 
-Eu guardo minhas informações em arquivos de texto num diretório. Pra poder
-acessar em tudo quanto é computador eu sincronizo os diretórios com o
-[Dropbox][dropbox].
+I save all my notes inside a Documents directory. To be able to read those notes on any computer, I sync it with [Dropbox][dropbox].
 
-Não importa onde eu esteja, ou que dispositivo eu estou usando, eu sempre posso
-checar qualquer informação que eu tenha anotado, ou editar uma nota. Na pior das
-hipóteses eu entro no site do Dropbox e vejo lá o que eu preciso.
+It doesn't matter where I am, or what device I'm using, I can always check any information that I've saved, or edit any note. Worst case scenario, I go to the Dropbox web site and check the files there.
 
-E mesmo que o Dropbox deixe de existir de uma hora para outra, ou que os
-servidores explodam, todos os meus arquivos estão em vários computadores e eu
-não perco nada.
+And even if Dropbox disappears from the world **right now**, all my files are saved on all my computers, and my phone and I won't lose a thing.
 
-Amanhã eu explico melhor como eu organizo minhas notas e tarefas em txt, porque
-o post já está muito grande.
+On my next post I will explain better how I organize all my notes and tasks in plain text, because this post is already too big.
 
 [simplenote]:http://simplenote.com
 [evernote]:http://evernote.com

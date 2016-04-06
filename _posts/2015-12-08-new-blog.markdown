@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Novo Blog
+title: New Blog
 modified:
 categories: blog
-excerpt: Decidi voltar com o blog. O que esperar dele.
+excerpt: I decided to start blogging again. This time it's definitive.
 tags: []
 image:
   feature:

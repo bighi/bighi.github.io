@@ -8,35 +8,29 @@ image:
 date: 2015-12-12T08:28:47-02:00
 ---
 
-Ontem eu falei sobre meu problemas com formatos proprietários para anotar
-informação.  Agora é hora de explicar como eu organizo minhas notas, arquivos,
-documentos, tarefas, etc.
+Yesterday I talked about my dislike for proprietary formats for my notes. Now it's time to explain how I organize my notes, documents, tasks, etc.
 
-Lembrando que uso apenas arquivos simples (txt para anotações) em diretórios
-sincronizados com Dropbox.
+If you didn't read the previous post, here's the summary: I use only plain text for my notes and tasks, saved in a Documents directory synchronized by Dropbox.
 
-Nesse sistema eu guardo as seguintes informações:
+In my system I stored the following information:
 
-- Notas de acesso frequente
-- Referências que posso precisar algum dia
-- Notas de projetos passados em que não trabalho mais
-- Minhas tarefas que preciso fazer
-- As tarefas que fiz
-- Meu diário
-- Documentos diversos
+- Notes that I check all the time
+- References that I may need someday (about my house, my car, etc)
+- Notes about completed/abandoned projects
+- Tasks I have yet to do
+- Tasks I've done
+- My personal and professional journal
+- Important documents (invoices, contracts, etc)
 
-## Como eu organizo as notas ##
+## How I organize my notes ##
 
-Eu tenho várias notas. Eu anoto qualquer informação que eu precise lembrar, ou
-que possa ser útil no futuro. Placa do meu carro, IMEI do meu telefone, ideias
-que eu tive pra um livro, uma série que um amigo sugeriu, comandos de terminal
-que eu sempre esqueço, etc.
+I have **a lot** of notes. Every information that I (may) have to remember (even if just for a couple days) I write down. My license plate, my phone's IMEI, ideas for a new book, a TV show suggested by a friend, terminal commands that I learned, how I solved a hard problem. The list goes on.
 
-Primeiro de tudo, todas as minhas anotações ficam dentro do diretório
-~/Dropbox/Notes.
+The most important thing is that all my notes are inside my directory `~/Dropbox/Notes`.
 
-### Tipos de notas ###
+### Kinds of notes ###
 
+I classify my notes under two categories: 
 Eu classifico minhas anotações em dois tipos: notas e referências.
 
 Referências são informações que estão lá caso eu precise algum dia, mas eu
