@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Como Eu Organizo Minha Vida Em TXT
+title: How I organize my life in plain text
 tags: [plaintext, markdown]
-excerpt: Onde eu explico como organizo minhas anotações, tarefas e documentos usando apenas arquivos simples em diretórios.
+excerpt: Where I explain how I organize my notes, tasks and scanned documents using just files inside folders.
 image:
   feature:
 date: 2015-12-12T08:28:47-02:00
@@ -30,169 +30,129 @@ The most important thing is that all my notes are inside my directory `~/Dropbox
 
 ### Kinds of notes ###
 
-I classify my notes under two categories: 
-Eu classifico minhas anotações em dois tipos: notas e referências.
+I classify my notes under two categories: notes and references.
 
-Referências são informações que estão lá caso eu precise algum dia, mas eu
-raramente acesso.  Exemplos: placa do meu carro, IP dos dispositivos da minha
-casa, dados dos celulares, números de documentos.
+References are information that I save to check someday, but I don't access regularly. Examples: my license plate number, the IP address of every device in my own network, the measurements of every room in my house, what shoe size my wife wears.
 
-Notas são anotações gerais que não estão lá apenas para referência. São coisas
-que eu vou acessar (e editar) com maior frequência.  Exemplos: listas de ideias,
-coisas que me recomendaram, itens que preciso comprar no mercado, coisas que
-emprestei pra alguém.
+Notes are more general that are not only reference. Notes are the ones I am going to view and edit more frequently, and may not last that long. Examples: lists of ideas, movies recommended to me, my grocery list, books I want to buy.
 
-### Projetos ###
+### Projects ###
 
-Além disso, as anotações podem se referir a um projeto específico ou não.
+My notes and references can also be related to a specific project that I'm working on.
 
-Quando eu estou anotando informações que só dizem respeito a um projeto, não faz
-sentido deixar isso junto do resto. Eu crio um diretório com o nome do projeto,
-dentro do diretório Notes, e guardo os arquivos dele lá dentro.
+When I'm writing down information relative to a specific project, there's no reason to leave it in the middle of my general notes. I have a Projects folder, and inside it I create a folder with the name of the project. This I where I save these notes.
 
-Faço isso com projetos do trabalho, ou um projeto pessoal meu que eu acho que
-vai dar dinheiro. Não faz sentido para projetos curtos que não vão ter vários
-arquivos.
+I do that for projects on my day job, but also my personal projects. If a project needs its own notes, that's where I keep them. I don't need to see these notes all the time.
 
-Quando o projeto está terminado e não preciso mais das notas, eu movo o
-diretório inteiro para dentro de um outro diretório chamado Arquivados.
-Provavelmente eu nunca mais vou ler novamente aquelas notas, mas pelo menos
-tenho a informação guardada caso eu precise.
+When the project is done (or is abandoned) and I don't need the notes anymore, I don't delete the folder. I move the entire project folder to my Archive folder.
 
-Apesar dessa organização, é importante deixar claro que **a grande maioria das
-minhas anotações fica apenas no diretório Notes, sem estar dentro de nenhum
-diretório de projeto.**
+I will *probably* never need those notes again, but you never know. This way I can keep them for future reference if needed, while keeping my Projects folder uncluttered.
+
+I am talking about all that organization, but it's important to make it clear that the *majority* of my notes is just sitting directly under my documents folder, not inside any project. I have much more general notes than I have project notes.
 
 ### Markdown ###
 
-Independente de ser uma Nota ou Referência, de assunto geral ou projeto, todas
-elas são formatadas num estilo chamado Markdown.
+There is one thing that is true for all my notes, no matter if Notes or References, general or related to a project. All of them are written in Markdown.
 
-Markdown é uma forma de escrever textos puros que permite que o texto seja
-transformado em HTML quando você quiser vê-lo de uma forma mais bonitinha.
+Markdown is not a specific format. We can say it's a syntax, a *style* of writing plain text files. If you follow the Markdown syntax, your text can be transformed into a pretty HTML rich-text file when needed.
 
-Ele faz isso sem deixar o texto ilegível e cheio de código, e de uma forma que
-seja fácil de ler mesmo olhando para o texto puro.
+Markdown is just plain text with some unobstrusive markup, like **\*\*double asterisks to bold\*\***, or _\_underscores\__ to italicize. There are also markups for headers, links, images, tables, etc.
 
-O Markdown usa algumas marcações no texto, como \*\*negrito\*\*, ou \_itálico\_.
-Ou outras marcações para links, cabeçalhos, tabelas, etc.
+This is the best of both worlds. You can have a readable and organized plain text file, while also having the option to turn it into HTML or DOC if you need formatting (bold, italics, images, headers, etc).
 
-Essa é a melhor forma de ter texto puro, mas ainda com um potencial de ser um
-texto rico que fica bonito quando você precisa.
+## How I organize my tasks ##
 
-## Como eu organizo as tarefas ##
+After reading all that, it shouldn't surprise you that I also keep my task list in plain text.
 
-Todas as minhas tarefas também ficam em um arquivo de texto. Eu tenho um arquivo
-chamado todo.txt que segue uma sintaxe que também se chama
-[**Todo.txt**][todotxt]. Você pode ler mais sobre essa sintaxe [aqui][todotxt].
+Similar to Markdown, I use what we could call "rich plain text", or plain text created in a specific way to allow apps to read it too.
 
-A ideia é simples: cada linha no arquivo de texto é uma tarefa. As tarefas podem
-receber um @contexto marcado com arroba, e fazer parte de +projetos marcados com
-um sinal de + antes do nome.
+I have a file `todo.txt`, using a standard that is (surprisingly) also called [Todo.txt][todotxt]. You can read more about it [here][todotxt].
 
-Além disso, podem ter a prioridade no começo da linha entre parênteses. A
-prioridade começa em A, depois B, depois C, e por aí vai.
+The idea is simple: every line in the text file is a task. Tasks can have a context marked like @context, and they can be assigned to a project by writing +project.
 
-Exemplo:
+You can also start the line with (A), or (B) or any other letter in the alphabet to define the priority of that task. And that's mostly it. Simple and easy, readable to humans and machines.
+
+Example:
 
 ```
-(A) Limpar as manchas de sangue @casa +cadáver
+(A) Clean blood stains on the floor @home +body
 
-(B) Esconder o corpo @casa +cadáver
+(B) Hide the body in a bag @home +body
 
-(C) Anunciar minha motosserra no Mercado Livre @computador +cadáver
+(C) Sell my chainsaw on ebay @computer +body
 
-Procurar nova pessoa pra dividir o apartamento comigo +apartamento
+Look for a new room mate on craigslist +apartment
 
-Comprar novo abajur @mercado
+Buy new lamp @errands
 ```
 
-Anotando dessa forma, eu posso ver e editar minhas tarefas em qualquer editor de
-texto. Mas também posso usar os aplicativos específicos para Todo.txt, quando eu
-quiser ver minhas tarefas numa interface própria pra isso.
+Using that simple markup I can read and edit my tasks on any text editor available to me. Or I can use Todo.txt apps that present the information in a more organized manner.
 
-Esse é mais um grande exemplo de como eu posso usar um aplicativo próprio para
-fazer alguma coisa, mas ainda tenho o arquivo num formato livre e sem ficar
-preso no servidor de alguma empresa.
+Whatever the case, I can always see what my tasks are, no matter what device I'm using.
 
-Existem aplicativos de Todo.txt para [iOS][todo-ios] e [Android][todo-android],
-assim como Windows, Mac e Linux.
+This is a great example of how I can use an app to help me do stuff (The Todo.txt compatible apps) while still having control over all my files and its contents.
 
-### As tarefas concluídas ###
+There are Todo.txt apps for [iOS][todo-ios] and [Android][todo-android]. Also Windows, Mac and Linux.
 
-Existe mais uma coisa que o Todo.txt faz. Ele move as tarefas concluídas para um
-diretório chamado done.txt, colocando no começo da linha a data em que a tarefa
-foi concluída. Assim ele não polui a lista de tarefas principal, mas mantém um
-histórico de tarefas concluídas caso você precise consultar.
+### Done Tasks ###
 
-Se você quiser fazer reviews semanais ou mensais, pode fazer um script que
-vasculha o done.txt procurando pelas tarefas com data da última semana ou mês.
+There is one more nice Todo.txt feature that I use all the time. When a task is done, all you have to do is put an "x" at the beginning of the line. And then apps can move that task to a done.txt file (or you can do it manually if not using an app).
 
-## Como organizo meu diário ##
+This way your task list stays clean, and you have a history of all the tasks you have done in the past.
 
-Isso não vai ser nenhuma surpresa, mas meu diário também fica salvo num arquivo
-de texto simples. Desta vez, ele é gerenciado por outro programa, um aplicativo
-de terminal chamado [**jrnl**][jrnl].
+If you do weekly or monthly reviews, it helps a lot.
 
-O jrnl oferece vários comandos que tornam muito prático fazer anotações no
-diário e rever as entradas com filtros de data.
+## How I organize my journal ##
 
-E no fim das contas é apenas um arquivo journal.txt com datas e texto.
+One more thing: my journal is also a plain text file. Shocking!
 
-## Documentos diversos ##
+My journal is a single journal.txt file with all the entries one after the other.
 
-Por último, eu gosto de ter cópias de todos os meus documentos de uma forma
-fácil de acessar. Tanto documentos pessoais (RG, CPF, título de eleitor, etc)
-quanto extratos mensais do banco, contracheques e notas fiscais de produtos.
+And just like the above examples, this is also handled by an app but in a format that I can read and edit manually if needed. I use a terminal app called [**jrnl**][jrnl]. It offers a handful of terminal commands to write to my journal, review previous entries, and even find by tags or date.
 
-Esse tipo de arquivo não tem jeito, eu preciso de um formato visual.
+But in the end it's a simple plain text file, giving me the peace of mind of knowing I never lose the information I saved in there.
 
-O mais próximo de um formato aberto que vai durar por muito tempo é o PDF. Ele
-permite imagens e texto, incluindo a possibilidade ter o texto escaneado da
-imagem e incluído no arquivo pra que fique uma imagem com texto selecionável.
+## Going paperless ##
 
-Então todos os meus documentos em papel são escaneados, tem os caracteres
-reconhecidos por algum aplicativo de OCR, e são salvos num diretório chamado
-"Arquivo Digital".
+Last but not least, there is one more thing I save in my Documents folder: scanned versions of paper documents.
 
-## Aplicativos que eu uso ##
+I have a scanned copy in PDF of all of my documents. My ID, driver's license, and the many documents the Brazilian government expect you to carry with you.
 
-No Android, eu uso [**Neutrinote**][neutrinote] para editar as notas, e o
-[**Todo.txt**][todo-android] para gerenciar as tarefas.
+I also scan and save purchase receipts, invoices, bank statements, contracts I signed. Every important document that I have on paper I also have on my Documents folder.
 
-No Linux, eu uso o [**Vim**][vim] para editar notas, e o
-[**QTodoTxt**][qtodotxt] para gerenciar as tarefas.
+And for those files, there's no way to use plain text. For them, I use a file format that is so supported by so much open source projects that there's no way it's going to fall out of the Earth any time soon: PDF.
 
-No Mac, eu uso [**Notational Velocity**][nvalt] para minhas anotações gerais,
-[**Marked**][marked] para ler arquivos de texto em Markdown, e a versão de
-console do Todo.txt para gerenciar as tarefas.
+PDF files allow text and image. I can annotate it, I can highlight text. But the important thing is that it has images and doesn't take much space.
 
-## Tudo está a poucos clique de distância ##
+So all my paper documents are scanned, OCR'd and saved in PDF.
 
-Existe algo em comum entre todos esses tipo de documentos que guardo:
+## Apps that I use ##
 
-1) Todos estão sempre disponíveis pra mim, seja em casa, no trabalho ou na rua.
+On android I use [**Neutrinote**][neutrinote] to edit my notes, and [**Todo.txt**][todo-android] to manage my tasks.
 
-2) Eu posso acessar de qualquer dispositivo. Seja um computador, celular, ou até
-mesmo no meu smartwatch. 
+On Linux, I use [**Vim**][vim] to edit my notes, and [**QTodoTxt**][qtodotxt] to manage tasks.
 
-3) Vão continuar acessíveis por anos, não importa
-quais empresas fechem ou que servidores explodam.
+On my Mac, I use [**Notational Velocity**][nvalt] for most of the notes, [**Marked**][marked] to read Markdown files in a beautiful format, and the console version of Todo.txt to manage my tasks.
 
-Se a característica mais importante de um sistema de notas é estar disponível
-quando eu preciso, eu posso dizer que meu sistema é um sucesso.
+## Everything is a few clicks away ##
 
-## Mantendo um histórico por muitos anos ##
+There are some things in commom between all those kinds of documents I keep:
 
-Eu só estou fazendo todo este esforço porque quero passar a manter um histórico
-da minha vida por muitos e muitos anos. Eu gostaria muito de ter feito isso
-desde novo, mas agora é tarde para pensar nisso.
+1) All of them are always available to me, no matter if I'm at home or out on the streets.
 
-Mas eu quero poder olhar daqui a 5 anos e ver que tarefas eu estava fazendo
-hoje, ou ler o diário e ver quais eram meus objetivos, sonhos e problemas.
+2) I can access any of those files from any device. A desktop, laptop, phone, tablet, or even someone else's computer with a web browser.
 
-O que quer que eu queira fazer, eu sei que os arquivos estarão lá esperando por
-mim.
+3) They will be readable for years to come, no matter what companies die, what servers are turned off, what services become too expensive for me to pay.
+
+If the most important characteristic of a notes system is being available when you need (and I think it is), then this is a great system.
+
+## Keeping my notes for decades ##
+
+I'm only going through all this trouble of making my own system because I want to keep all my notes for as long as I can. I want these notes to serve as a history of my life. I wish I started doing this much sooner, so I could look back in time to what kind of information I was recording when I was younger.
+
+But now I know that I can look back, five years from now, and see what tasks I was doing, what I was worried about, what were my dreams and troubles in my own words.
+
+Whatever I want to do with the information, I know it will be there waiting for me.
 
 [todotxt]:http://todotxt.com
 [todo-ios]:http://itunes.apple.com/br/app/todo.txt-touch/id491342186?ls=1&mt=8

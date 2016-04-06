@@ -3,7 +3,7 @@ layout: post
 title: Why I prefer plain text
 categories: [plain text]
 excerpt: How and why I organize many things in my life using just plain text instead of modern apps.
-tags: [plaintext markdown]
+tags: [plaintext, markdown]
 image:
   feature:
 date: 2015-12-11T08:39:25-02:00

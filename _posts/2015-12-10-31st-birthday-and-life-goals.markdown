@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 31st birthday and life goals
-modified:
-categories: vida
+categories: life
 excerpt: On my 31st birthday I stop to reflect about life goals and what I've never achieved.
-Fiz 31 anos e parei pra refletir sobre as metas que eu tinha pra vida.
 image:
   feature:
 date: 2015-12-10T11:03:29-02:00
