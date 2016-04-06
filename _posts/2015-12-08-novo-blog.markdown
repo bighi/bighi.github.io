@@ -9,24 +9,21 @@ image:
   feature:
 date: 2015-12-07T20:43:02-02:00
 ---
-Novo blog no ar.
+New blog. Again.
 
-Depois de ter criado e desistido de vários blogs, resolvi voltar e tentar mais
-uma vez.
+I have created and abandoned many blogs in the latest years. These days I feel sad for not keeping them (it would be nice to look back to how I used to think years ago). Now I've decided to try one more time.
 
-Vou tentar postar com maior frequência e menos autocensura. Os temas serão tudo
-que tenho vontade de escrever.
+I'll try a different tactic here: I'm going to post smaller posts, with increased frequency and less self censorship. And the themes are going to be... well, basically anything I want to write about.
 
-Atualmente os temas que me mais me motivam são:
+These are the themes that motivate me these days:
 
-- Jogos
-- Quantified Self (registrar e enumerar coisas da vida, como sono, passos, etc)
-- Automação de coisas
-- Aprender Emacs
-- Escrever
+- Video games
+- Quantified Self
+- Web and mobile development
+- Automation of stuff
+- Writing
+- Brazilian politics
 
-Desta vez, em vez de abandonar o blog eu vou querer mantê-lo por muitos anos
-como um registro da minha vida. Quero poder olhar para trás e ver o que eu
-pensava, o que eu gostava, que objetivos eu tinha pra minha vida.
+This time, instead of abandoning this blog after a few months or a year, I'm going to keep it for years. Many years. This time I want to be able to look back and remember what I was learning, or thinking, or planning, whatever.
 
-Se eu fizer uns 3 ou 4 posts por semana, já me sinto satisfeito.
+If I make 1 or 2 posts a week, I'm satisfied.
