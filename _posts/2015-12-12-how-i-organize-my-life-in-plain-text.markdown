@@ -12,7 +12,7 @@ Yesterday I talked about my dislike for proprietary formats for my notes. Now it
 
 If you didn't read the previous post, here's the summary: I use only plain text for my notes and tasks, saved in a Documents directory synchronized by Dropbox.
 
-In my system I stored the following information:
+In my system I store the following information:
 
 - Notes that I check all the time
 - References that I may need someday (about my house, my car, etc)
