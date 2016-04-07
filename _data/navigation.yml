@@ -1,10 +1,10 @@
 # Site navigation links
 
-- title: Sobre
-  url: /sobre/
+- title: About
+  url: /about/
 
 - title: Feed
   url: /feed.xml
 
-- title: Agora
+- title: Now
   url: /now/

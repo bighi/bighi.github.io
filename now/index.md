@@ -1,48 +1,46 @@
 ---
 layout: page
-title: O que estou fazendo agora
+title: What I'm doing now
 modified: 2015-12-10T07:53:07.573882-03:00
 comments: true
 image:
   feature:
 ---
 
-O Derek Sivers teve uma ideia interessante: cada blogueiro escrever
-sobre o que está fazendo atualmente. Dessa ideia, surgiu essa página.
+Derek Sivers had an interesting idea: that bloggers create a page about
+what they're doing now. This page came from that idea.
 
-Vou tentar atualizar com frequência o status aqui sobre o que estou
-fazendo no momento. Minha meta é automatizar esse processo no futuro,
-conforme vou melhorando os dados que eu coleto sobre mim mesmo.
+I'm going to try to keep this page as updated as I can. I hope I can automate
+this in the near future.
 
-## Livros ##
+## Books ##
 
-No momento eu estou lendo [**The Great Hunt**][livro], o segundo livro
-da série **The Wheel of Time**.
+At the moment I'm reading [**So Good They Can't Ignore you**][book] by
+Cal Newport.
 
-Essa é uma série de fantasia bem interessante, provavelmente a mais
-importante do século passado depois de Senhor dos Anéis. Mas também é
-muito grande: são 14 livros. Haja tempo.
+This is a very interesting nonfiction book about not following your
+passion. The hypothesis of the book is that we got this figured out
+backwards. First you get good at something, and *then* you love it.
 
-## Jogos ##
+## Games ##
 
-Eu tenho jogado pouco. Mas tenho dividido meu tempo entre esses jogos:
+I haven't been playing that much. But when I play, I'm split between
+these two games:
 
-- Fallout 4 (Xbox One)
-- Banjo Kazooie (Nintendo 64, rodando no Xbox One)
+- Cities: Skylines (PC)
+- Heroes of the Storm (PC)
 
-## Séries ##
+## TV Shows ##
 
-Depois que terminei Jessica Jones, não estou assistindo nada. Sugestões?
+I've been watching the second season of **House of Cards**. Yes, I know I'm
+late. But I'm loving it.
 
-## Projetos ##
+## Projects ##
 
-Estou mantendo o [**Regras do Jogo**][regrasjogo], um blog sobre jogos
-de tabuleiro e RPG.
+My main project for the past month has been the board game blog [**Regras do Jogo**][regrasjogo], that I'm writing in Portuguese.
 
-E também estou escrevendo um site sobre como cuidar de pele oleosa. Acho
-que esse é um nicho pouco explorado que pode dar dinheiro se eu
-conseguir colocar várias páginas em primeiro lugar no Google e
-recomendar produtos com código de afiliados.
+I'm also learning AngularJS and the ionic Framework to created a series
+of pc and mobile apps focused on plain text. More about that soon.
 
 [regrasjogo]:http://regrasdojogo.com
-[livro]:http://www.amazon.com/Great-Hunt-Wheel-Time-Book/dp/0812517725
+[book]:http://www.amazon.com/gp/product/B0076DDBJ6/ref=dp-kindle-redirect?ie=UTF8&btkr=1
