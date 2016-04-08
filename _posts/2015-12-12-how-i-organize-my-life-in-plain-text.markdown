@@ -24,7 +24,7 @@ In my system I store the following information:
 
 ## How I organize my notes ##
 
-I have **a lot** of notes. Every information that I (may) have to remember (even if just for a couple days) I write down. My license plate, my phone's IMEI, ideas for a new book, a TV show suggested by a friend, terminal commands that I learned, how I solved a hard problem. The list goes on.
+I have **a lot** of notes. I write down every information that I (may) have to remember (even if just for a couple days). My license plate, my phone's IMEI, ideas for a new book, a TV show suggested by a friend, terminal commands that I learned, how I solved a hard problem. The list goes on.
 
 The most important thing is that all my notes are inside my directory `~/Dropbox/Notes`.
 
