@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Leonardo Bighi
-locale: pt_BR
+locale: en
 #url:
 
 
@@ -34,8 +34,8 @@ owner:
   twitter: bighi
   facebook: leonardobighi
   google:
-    plus: bighi
-    analytics:
+    plus:
+    analytics: UA-41380794-1
     verify:
     ad-client:
     ad-slot:
