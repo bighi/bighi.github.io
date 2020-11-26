@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site navigation links
 
 - title: About
@@ -8,3 +9,17 @@
 
 - title: Now
   url: /now/
+=======
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+>>>>>>> f69e6cbfc446441e3dfd7416d512660a901384d8
