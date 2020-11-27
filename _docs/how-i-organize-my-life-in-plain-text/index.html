@@ -1,0 +1,694 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.21.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>How I organize my life in plaintext - Leonardo Bighi</title>
+<meta name="description" content="Yesterday I talked about my dislike for proprietary formats for my notes. Now it’s time to explain how I organize my notes, documents, tasks, etc.">
+
+
+  <meta name="author" content="Leonardo Bighi">
+  
+  <meta property="article:author" content="Leonardo Bighi">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Leonardo Bighi">
+<meta property="og:title" content="How I organize my life in plaintext">
+<meta property="og:url" content="http://localhost:4000/how-i-organize-my-life-in-plain-text/">
+
+
+  <meta property="og:description" content="Yesterday I talked about my dislike for proprietary formats for my notes. Now it’s time to explain how I organize my notes, documents, tasks, etc.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2015-12-12T00:00:00-02:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/how-i-organize-my-life-in-plain-text/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Leonardo Bighi",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Leonardo Bighi Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Leonardo Bighi
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/feed.xml">Feed</a>
+            </li><li class="masthead__menu-item">
+              <a href="/now/">Now</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="/assets/images/bio-photo.jpg" alt="Leonardo Bighi" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Leonardo Bighi</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>Hacking my life with Linux, Ruby and JavaScript</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Rio de Janeiro, Brazil</span>
+        </li>
+      
+
+      
+        
+          
+            <li><a href="mailto:contact@leonardobighi.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+          
+        
+          
+            <li><a href="https://twitter.com/bighi" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+            <li><a href="https://github.com/bighi" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="How I organize my life in plaintext">
+    <meta itemprop="description" content="Yesterday I talked about my dislike for proprietary formats for my notes. Now it’s time to explain how I organize my notes, documents, tasks, etc.">
+    <meta itemprop="datePublished" content="2015-12-12T00:00:00-02:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">How I organize my life in plaintext
+</h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        <time datetime="2015-12-12T00:00:00-02:00">December 12, 2015</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          7 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>Yesterday I talked about my dislike for proprietary formats for my notes. Now it’s time to explain how I organize my notes, documents, tasks, etc.</p>
+
+<p>If you didn’t read the previous post, here’s the summary: I use only plain text for my notes and tasks, saved in a Documents directory synchronized by Dropbox.</p>
+
+<p>In my system I store the following information:</p>
+
+<ul>
+  <li>Notes that I check all the time</li>
+  <li>References that I may need someday (about my house, my car, etc)</li>
+  <li>Notes about completed/abandoned projects</li>
+  <li>Tasks I have yet to do</li>
+  <li>Tasks I’ve done</li>
+  <li>My personal and professional journal</li>
+  <li>Important documents (invoices, contracts, etc)</li>
+</ul>
+
+<h2 id="how-i-organize-my-notes">How I organize my notes</h2>
+
+<p>I have a lot of notes. I write down every information that I (may) have to remember (even if just for a couple days). My license plate, my phone’s IMEI, ideas for a new book, a TV show suggested by a friend, terminal commands that I learned, how I solved a hard problem. The list goes on.</p>
+
+<p>The most important thing is that all my notes are inside my directory <code class="language-plaintext highlighter-rouge">~/Dropbox/Notes</code>.</p>
+
+<h3 id="kinds-of-notes">Kinds of notes</h3>
+
+<p>I classify my notes under two categories: notes and references.</p>
+
+<p>References are information that I save to check someday, but I don’t access regularly. Examples: my license plate number, the IP address of every device in my own network, the measurements of every room in my house, what shoe size my wife wears.</p>
+
+<p>Notes are more general that are not only reference. Notes are the ones I am going to view and edit more frequently, and may not last that long. Examples: lists of ideas, movies recommended to me, my grocery list, books I want to buy.</p>
+
+<h3 id="projects">Projects</h3>
+
+<p>My notes and references can also be related to a specific project that I’m working on.</p>
+
+<p>When I’m writing down information relative to a specific project, there’s no reason to leave it in the middle of my general notes. I have a Projects folder, and inside it I create a folder with the name of the project. This I where I save these notes.</p>
+
+<p>I do that for projects on my day job, but also my personal projects. If a project needs its own notes, that’s where I keep them. I don’t need to see these notes all the time.</p>
+
+<p>When the project is done (or is abandoned) and I don’t need the notes anymore, I don’t delete the folder. I move the entire project folder to my Archive folder.</p>
+
+<p>I will <em>probably</em> never need those notes again, but you never know. This way I can keep them for future reference if needed, while keeping my Projects folder uncluttered.</p>
+
+<p>I am talking about all that organization, but it’s important to make it clear that the <em>majority</em> of my notes is just sitting directly under my documents folder, not inside any project. I have much more general notes than I have project notes.</p>
+
+<h3 id="markdown">Markdown</h3>
+
+<p>There is one thing that is true for all my notes, no matter if Notes or References, general or related to a project. All of them are written in Markdown.</p>
+
+<p>Markdown is not a specific format. We can say it’s a syntax, a <em>style</em> of writing plain text files. If you follow the Markdown syntax, your text can be transformed into a pretty HTML rich-text file when needed.</p>
+
+<p>Markdown is just plain text with some unobstrusive markup, like <em>*double asterisks to bold</em>*, or <em>_underscores_</em> to italicize. There are also markups for headers, links, images, tables, etc.</p>
+
+<p>This is the best of both worlds. You can have a readable and organized plain text file, while also having the option to turn it into HTML or DOC if you need formatting (bold, italics, images, headers, etc).</p>
+
+<h2 id="how-i-organize-my-tasks">How I organize my tasks</h2>
+
+<p>After reading all that, it shouldn’t surprise you that I also keep my task list in plain text.</p>
+
+<p>Similar to Markdown, I use what we could call “rich plain text”, or plain text created in a specific way to allow apps to read it too.</p>
+
+<p>I have a file <code class="language-plaintext highlighter-rouge">todo.txt</code>, using a standard that is (surprisingly) also called <a href="http://todotxt.com/">Todo.txt</a>. You can read more about it <a href="http://todotxt.com/">here</a>.</p>
+
+<p>The idea is simple: every line in the text file is a task. Tasks can have a context marked like @context, and they can be assigned to a project by writing +project.</p>
+
+<p>You can also start the line with (A), or (B) or any other letter in the alphabet to define the priority of that task. And that’s mostly it. Simple and easy, readable to humans and machines.</p>
+
+<p>Example:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(A) Clean blood stains on the floor @home +body
+
+(B) Hide the body in a bag @home +body
+
+(C) Sell my chainsaw on ebay @computer +body
+
+Look for a new room mate on craigslist +apartment
+
+Buy new lamp @errands
+</code></pre></div></div>
+
+<p>Using that simple markup I can read and edit my tasks on any text editor available to me. Or I can use Todo.txt apps that present the information in a more organized manner.</p>
+
+<p>Whatever the case, I can always see what my tasks are, no matter what device I’m using.</p>
+
+<p>This is a great example of how I can use an app to help me do stuff (The Todo.txt compatible apps) while still having control over all my files and its contents.</p>
+
+<p>There are Todo.txt apps for <a href="http://itunes.apple.com/br/app/todo.txt-touch/id491342186?ls=1&amp;mt=8">iOS</a> and <a href="http://play.google.com/store/apps/details?id=com.todotxt.todotxttouch">Android</a>. Also Windows, Mac and Linux.</p>
+
+<h3 id="done-tasks">Done Tasks</h3>
+
+<p>There is one more nice Todo.txt feature that I use all the time. When a task is done, all you have to do is put an “x” at the beginning of the line. And then apps can move that task to a done.txt file (or you can do it manually if not using an app).</p>
+
+<p>This way your task list stays clean, and you have a history of all the tasks you have done in the past.</p>
+
+<p>If you do weekly or monthly reviews, it helps a lot.</p>
+
+<h2 id="how-i-organize-my-journal">How I organize my journal</h2>
+
+<p>One more thing: my journal is also a plain text file. Shocking!</p>
+
+<p>My journal is a single journal.txt file with all the entries one after the other.</p>
+
+<p>And just like the above examples, this is also handled by an app but in a format that I can read and edit manually if needed. I use a terminal app called <a href="https://github.com/maebert/jrnl">jrnl</a>. It offers a handful of terminal commands to write to my journal, review previous entries, and even find by tags or date.</p>
+
+<p>But in the end it’s a simple plain text file, giving me the peace of mind of knowing I never lose the information I saved in there.</p>
+
+<h2 id="going-paperless">Going paperless</h2>
+
+<p>Last but not least, there is one more thing I save in my Documents folder: scanned versions of paper documents.</p>
+
+<p>I have a scanned copy in PDF of all of my documents. My ID, driver’s license, and the many documents the Brazilian government expect you to carry with you.</p>
+
+<p>I also scan and save purchase receipts, invoices, bank statements, contracts I signed. Every important document that I have on paper I also have on my Documents folder.</p>
+
+<p>And for those files, there’s no way to use plain text. For them, I use a file format that is so supported by so much open source projects that there’s no way it’s going to fall out of the Earth any time soon: PDF.</p>
+
+<p>PDF files allow text and image. I can annotate it, I can highlight text. But the important thing is that it has images and doesn’t take much space.</p>
+
+<p>So all my paper documents are scanned, OCR’d and saved in PDF.</p>
+
+<h2 id="apps-that-i-use">Apps that I use</h2>
+
+<p>On android I use <a href="https://play.google.com/store/apps/details?id=com.appmindlab.nano&amp;hl=pt_BR">Neutrinote</a> to edit my notes, and <a href="http://play.google.com/store/apps/details?id=com.todotxt.todotxttouch">Todo.txt</a> to manage my tasks.</p>
+
+<p>On Linux, I use <a href="http://www.vim.org/">Vim</a> to edit my notes, and <a href="https://github.com/QTodoTxt/QTodoTxt">QTodoTxt</a> to manage tasks.</p>
+
+<p>On my Mac, I use <a href="http://brettterpstra.com/projects/nvalt/">Notational Velocity</a> for most of the notes, <a href="http://marked2app.com/">Marked</a> to read Markdown files in a beautiful format, and the console version of Todo.txt to manage my tasks.</p>
+
+<h2 id="everything-is-a-few-clicks-away">Everything is a few clicks away</h2>
+
+<p>There are some things in commom between all those kinds of documents I keep:</p>
+
+<p>1) All of them are always available to me, no matter if I’m at home or out on the streets.</p>
+
+<p>2) I can access any of those files from any device. A desktop, laptop, phone, tablet, or even someone else’s computer with a web browser.</p>
+
+<p>3) They will be readable for years to come, no matter what companies die, what servers are turned off, what services become too expensive for me to pay.</p>
+
+<p>If the most important characteristic of a notes system is being available when you need (and I think it is), then this is a great system.</p>
+
+<h2 id="keeping-my-notes-for-decades">Keeping my notes for decades</h2>
+
+<p>I’m only going through all this trouble of making my own system because I want to keep all my notes for as long as I can. I want these notes to serve as a history of my life. I wish I started doing this much sooner, so I could look back in time to what kind of information I was recording when I was younger.</p>
+
+<p>But now I know that I can look back, five years from now, and see what tasks I was doing, what I was worried about, what were my dreams and troubles in my own words.</p>
+
+<p>Whatever I want to do with the information, I know it will be there waiting for me.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2015-12-12T00:00:00-02:00">December 12, 2015</time></p>
+
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/why-i-prefer-plaintext/" class="pagination--pager" title="Why I prefer plaintext
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/why-i-prefer-plaintext/" rel="permalink">Why I prefer plaintext
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        <time datetime="2015-12-11T00:00:00-02:00">December 11, 2015</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">I’ve used many different apps to organize my notes and documents. I’ve used Simplenote, Evernote, Google Docs, and many others. And every time I end up comin...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/31st-birthday-and-life-goals/" rel="permalink">31st birthday and life goals
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        <time datetime="2015-12-10T00:00:00-02:00">December 10, 2015</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Yesterday was my 31st birthday. This is weird. I’m not used to thinking about myself as a thirty-something. Instead of celebrating, I stopped to reflect abou...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/new-blog/" rel="permalink">New Blog
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        <time datetime="2015-12-07T00:00:00-02:00">December 7, 2015</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">New blog. Again.
+
+</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2020 Leonardo Bighi. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
