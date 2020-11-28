@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Soon there will be a description here.
+Hi, my name is Leonardo Bighi and I'm a web developer.
+
+Soon there will be a proper About page here.
+
+[Hardware I use](/what-i-use/)
