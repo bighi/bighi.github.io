@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-permalink: /about/
+permalink: /como-vivo-a-minha-vida/
 created: 2020-12-13
 ---
 
