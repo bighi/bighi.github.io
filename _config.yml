@@ -107,7 +107,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:contact@leonardobighi.com"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky-square"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/bighi.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
