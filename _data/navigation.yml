@@ -1,8 +1,10 @@
 # Site navigation links
 main:
-
   - title: About
     url: /about/
+
+  - title: What I Use
+    url: /what-i-use
 
   - title: Feed
     url: /feed.xml
