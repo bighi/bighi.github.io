@@ -1,13 +1,14 @@
 # Site navigation links
 main:
-  - title: About
-    url: /about/
+  - title: Now
+    url: /now/
 
   - title: What I Use
     url: /what-i-use
 
+  - title: About
+    url: /about/
+
   - title: Feed
     url: /feed.xml
 
-  - title: Now
-    url: /now/
