@@ -38,4 +38,20 @@ Of the other devices I have, one of the most important is the **Airdrops Pro 2**
 
 I also have proper hearing aids from Phonak. I forgot the name of the model. The battery lasts for about 18 hours, which is enough for a whole day. They can be used just like bluetooth earphones, so I can listen to music or podcasts from my iPhone while I wear them. But they cost 16x times more the Airpods Pro, and the audio is worse. If I could use the Airpods Pro for an entire day, I wouldn't even need hearing aids. Specially because I have more control over the Airpods than the Phonak device I have.
 
-And last but not least, my beloved 3D printer from Bambulab. It's a Bambulab P1S, with AMS on the side. I can use up to 4 colors while 3D printing, and this printer is very precise and prints rarely fail. It's far from the cheapest model, but to me it's worth it. I print a few things for the house every month, and I've printed A LOT of scenery for my tabletop RPG sessions. It's one of the best devices I got the last few years, and I can't see myself without a 3D printer anymore.
+I also have a mechanical keyboard that is not very conventional. The [Kyria keyboard from SplitKB](https://splitkb.com/products/kyria-rev3) is a split keyboard with very few keys. I wrote its firmware using the [QMK firmware](https://qmk.fm) library, written in C. I still haven't found the perfect layout to use with it, but I'm currently using a variation of [Miryoku](https://github.com/manna-harbour/miryoku) and I'm almost happy with it.
+
+And last but not least, my beloved 3D printer from Bambulab. It's a **Bambulab P1S**, with AMS on the side. I can use up to 4 colors while 3D printing, and this printer is very precise and prints rarely fail. It's far from the cheapest model, but to me it's worth it. I print a few things for the house every month, and I've printed A LOT of scenery for my tabletop RPG sessions. It's one of the best devices I got the last few years, and I can't see myself without a 3D printer anymore.
+
+## Software
+
+I write all my notes using **Obsidian**. I have about 4300 notes. Some are ideas and knowledge I wrote about, but most of them are my journal, and databases of games, books and movies. Obsidian is perfect for my philosophy of [storing my knowledge as plaintext](https://www.leonardobighi.com/why-i-prefer-plaintext/).
+
+To write software, I mostly use **[Neovim](https://neovim.io)** but sometimes I also use **VS Code**. I usually write software with Ruby On Rails, but sometimes I also use Python or JavaScript (with ReactJS).
+
+My browser of choice is **Safari**, but I'm not 100% satisfied with it. Sometimes I go back to **Chromium** for a week or two, but end up coming back to Safari.
+
+I do all my terminal magic on **iTerm**, but I've been thinking about migrating to Kitty or Alacritty. The only reason I'm sticking with iTerm is that it's already set up the way I like, and it works. But I like the idea of using a cross-platform terminal and reusing the dotfile to set it up.
+
+I use **Drafts** for temporary notes, because it's very quick to open it and start writing, and it syncs notes between my iPhone and my Mac.
+
+I also use a bunch of Apple apps for basic stuff. Apple Photos, Mail, Calendar, Reminders.
