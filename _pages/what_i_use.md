@@ -40,6 +40,8 @@ I also have proper hearing aids from Phonak. I forgot the name of the model. The
 
 I also have a mechanical keyboard that is not very conventional. The [Kyria keyboard from SplitKB](https://splitkb.com/products/kyria-rev3) is a split keyboard with very few keys. I wrote its firmware using the [QMK firmware](https://qmk.fm) library, written in C. I still haven't found the perfect layout to use with it, but I'm currently using a variation of [Miryoku](https://github.com/manna-harbour/miryoku) and I'm almost happy with it.
 
+To read eBooks I have a **Kobo Clara Colour**. The Kobo is a lot more open than the Kindle, and is not under control of an awful monopolistic company. I'm liking the colored e-ink screen. It helps make the book covers stand out. In a black and white screen they all kind of look the same.
+
 And last but not least, my beloved 3D printer from Bambulab. It's a **Bambulab P1S**, with AMS on the side. I can use up to 4 colors while 3D printing, and this printer is very precise and prints rarely fail. It's far from the cheapest model, but to me it's worth it. I print a few things for the house every month, and I've printed A LOT of scenery for my tabletop RPG sessions. It's one of the best devices I got the last few years, and I can't see myself without a 3D printer anymore.
 
 ## Software
